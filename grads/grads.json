@@ -1,0 +1,15 @@
+{
+  "grads": [
+    {
+      "github": "example-grad",
+      "name": "Example Grad",
+      "country": "Indonesia",
+      "skills": ["Go", "Bitcoin"],
+      "joined": "2026-04-26",
+      "prs_submitted": 0,
+      "prs_merged": 0,
+      "issues_completed": [],
+      "status": "active"
+    }
+  ]
+}

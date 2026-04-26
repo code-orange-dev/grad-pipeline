@@ -1,0 +1,52 @@
+{
+  "issues": [
+    {
+      "id": "LND-10271",
+      "repo": "lnd",
+      "upstream_issue": 10271,
+      "title": "Add change_addr to SendCoins",
+      "difficulty": "beginner",
+      "language": "Go",
+      "skills": ["Go", "Protobuf", "CLI"],
+      "status": "in-progress",
+      "assigned_to": "code-orange-dev",
+      "pr_url": "https://github.com/lightningnetwork/lnd/pull/10769"
+    },
+    {
+      "id": "LND-9952",
+      "repo": "lnd",
+      "upstream_issue": 9952,
+      "title": "MPP record support for QueryRoutes",
+      "difficulty": "intermediate",
+      "language": "Go",
+      "skills": ["Go", "Protobuf", "Lightning"],
+      "status": "in-progress",
+      "assigned_to": "code-orange-dev",
+      "pr_url": "https://github.com/lightningnetwork/lnd/pull/10770"
+    },
+    {
+      "id": "BDK-1936",
+      "repo": "bdk",
+      "upstream_issue": 1936,
+      "title": "Move TxTemplate to bdk_testenv",
+      "difficulty": "beginner",
+      "language": "Rust",
+      "skills": ["Rust", "Testing"],
+      "status": "in-progress",
+      "assigned_to": "code-orange-dev",
+      "pr_url": "https://github.com/bitcoindevkit/bdk/pull/2191"
+    },
+    {
+      "id": "RUST-BTC-1802",
+      "repo": "rust-bitcoin",
+      "upstream_issue": 1802,
+      "title": "TryFrom<&str> for FromStr types",
+      "difficulty": "beginner",
+      "language": "Rust",
+      "skills": ["Rust", "Traits"],
+      "status": "in-progress",
+      "assigned_to": "code-orange-dev",
+      "pr_url": "https://github.com/rust-bitcoin/rust-bitcoin/pull/6083"
+    }
+  ]
+}
