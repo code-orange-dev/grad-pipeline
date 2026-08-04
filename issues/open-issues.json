@@ -1,4 +1,6 @@
 {
+  "data_status": "legacy_unverified_examples",
+  "verification_required_before_assignment": true,
   "issues": [
     {
       "id": "LND-10271",

@@ -1,4 +1,6 @@
 {
+  "data_status": "schema_example_not_live_roster",
+  "source_of_current_pr_metrics": "https://github.com/code-orange-dev/PR-tracking-dashboard",
   "grads": [
     {
       "github": "example-grad",
@@ -6,10 +8,19 @@
       "country": "Indonesia",
       "skills": ["Go", "Bitcoin"],
       "joined": "2026-04-26",
+      "cohort_id": "example-cohort",
+      "mentor": "unassigned",
+      "last_proof": {
+        "type": "none",
+        "url": null,
+        "verified_on": null
+      },
+      "next_action": "Replace this example with a verified graduate record before activation.",
+      "next_action_due": null,
       "prs_submitted": 0,
       "prs_merged": 0,
       "issues_completed": [],
-      "status": "active"
+      "status": "prospect"
     }
   ]
 }
