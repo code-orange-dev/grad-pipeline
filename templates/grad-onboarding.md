@@ -9,10 +9,10 @@
 4. Introduce yourself in #introductions
 
 ### Step 2: Pick an Issue
-1. Check the [Issue Board](https://github.com/code-orange-dev/grad-issues)
-2. Pick issue matching your skills
-3. Comment "🍊 Taking this" on the issue
-4. Wait for assignment
+1. Ask the pipeline operator for the verified weekly issue menu
+2. Pick an issue matching your skills
+3. Add your GitHub handle, cohort, mentor, and a first proof link to the operating roster
+4. Wait for the mentor to confirm the assignment
 
 ### Step 3: Work on It
 1. Clone your fork
@@ -36,7 +36,7 @@
 ## Support
 
 - **Technical help:** Discord #dev-help
-- **Mentor:** @keypleb
+- **Mentor:** Your named mentor in the operating roster
 - **Weekly sync:** Bitcoin House Bali, Sundays 2pm
 
 ## Recognition
